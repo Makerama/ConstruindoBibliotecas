@@ -5,13 +5,11 @@
 
 class Morse{
     public:
-          Morse(int p1, int p2, int p3);
-          void ligarTodos();
-          void desligarTodos();
+          Morse(int pino);
+          void ligar();
+          void desligar();
     private:
-          int pino1;
-          int pino2;
-          int pino3;
+          int _pino;
   };
 
 
