@@ -1,2 +1,2 @@
-# LedsRGB
-An Arduino library that allows you to control RGB Leds in a simple way
+# Morse
+An Arduino library that allows you to use Morse with leds
