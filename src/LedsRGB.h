@@ -1,11 +1,11 @@
-#ifndef LedsRGB
-#define LedsRGB
+#ifndef Morse
+#define Morse
 
 #include "Arduino.h"
 
-class LedRGB{
+class Morse{
     public:
-          LedRGB(int p1, int p2, int p3);
+          Morse(int p1, int p2, int p3);
           void ligarTodos();
           void desligarTodos();
     private:
